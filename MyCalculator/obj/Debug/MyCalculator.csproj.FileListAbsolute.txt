@@ -7,3 +7,4 @@ E:\포트폴리오\Wemade\MyCalculator\MyCalculator\obj\Debug\MyCalculator.cspro
 E:\포트폴리오\Wemade\MyCalculator\MyCalculator\obj\Debug\MyCalculator.csproj.CoreCompileInputs.cache
 E:\포트폴리오\Wemade\MyCalculator\MyCalculator\obj\Debug\MyCalculator.exe
 E:\포트폴리오\Wemade\MyCalculator\MyCalculator\obj\Debug\MyCalculator.pdb
+E:\포트폴리오\Wemade\MyCalculator\MyCalculator\obj\Debug\MyCalculator.csproj.AssemblyReference.cache

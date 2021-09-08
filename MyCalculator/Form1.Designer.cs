@@ -59,6 +59,7 @@ namespace MyCalculator
             // 
             // changeBtn
             // 
+            this.changeBtn.BackColor = System.Drawing.Color.White;
             this.changeBtn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.changeBtn.Font = new System.Drawing.Font("맑은 고딕", 12.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
             this.changeBtn.Location = new System.Drawing.Point(10, 385);
@@ -66,11 +67,12 @@ namespace MyCalculator
             this.changeBtn.Size = new System.Drawing.Size(70, 50);
             this.changeBtn.TabIndex = 0;
             this.changeBtn.Text = "±";
-            this.changeBtn.UseVisualStyleBackColor = true;
+            this.changeBtn.UseVisualStyleBackColor = false;
             this.changeBtn.Click += new System.EventHandler(this.btnChange_Click);
             // 
             // btn0
             // 
+            this.btn0.BackColor = System.Drawing.Color.White;
             this.btn0.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn0.Font = new System.Drawing.Font("맑은 고딕", 12.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
             this.btn0.Location = new System.Drawing.Point(86, 385);
@@ -78,11 +80,12 @@ namespace MyCalculator
             this.btn0.Size = new System.Drawing.Size(70, 50);
             this.btn0.TabIndex = 1;
             this.btn0.Text = "0";
-            this.btn0.UseVisualStyleBackColor = true;
+            this.btn0.UseVisualStyleBackColor = false;
             this.btn0.Click += new System.EventHandler(this.btnNumber_Click);
             // 
             // dotBtn
             // 
+            this.dotBtn.BackColor = System.Drawing.Color.White;
             this.dotBtn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.dotBtn.Font = new System.Drawing.Font("맑은 고딕", 12.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
             this.dotBtn.Location = new System.Drawing.Point(162, 385);
@@ -90,11 +93,12 @@ namespace MyCalculator
             this.dotBtn.Size = new System.Drawing.Size(70, 50);
             this.dotBtn.TabIndex = 2;
             this.dotBtn.Text = ".";
-            this.dotBtn.UseVisualStyleBackColor = true;
+            this.dotBtn.UseVisualStyleBackColor = false;
             this.dotBtn.Click += new System.EventHandler(this.btnDot_Click);
             // 
             // btn3
             // 
+            this.btn3.BackColor = System.Drawing.Color.White;
             this.btn3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn3.Font = new System.Drawing.Font("맑은 고딕", 12.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
             this.btn3.Location = new System.Drawing.Point(162, 329);
@@ -102,11 +106,12 @@ namespace MyCalculator
             this.btn3.Size = new System.Drawing.Size(70, 50);
             this.btn3.TabIndex = 5;
             this.btn3.Text = "3";
-            this.btn3.UseVisualStyleBackColor = true;
+            this.btn3.UseVisualStyleBackColor = false;
             this.btn3.Click += new System.EventHandler(this.btnNumber_Click);
             // 
             // btn2
             // 
+            this.btn2.BackColor = System.Drawing.Color.White;
             this.btn2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn2.Font = new System.Drawing.Font("맑은 고딕", 12.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
             this.btn2.Location = new System.Drawing.Point(86, 329);
@@ -114,11 +119,12 @@ namespace MyCalculator
             this.btn2.Size = new System.Drawing.Size(70, 50);
             this.btn2.TabIndex = 4;
             this.btn2.Text = "2";
-            this.btn2.UseVisualStyleBackColor = true;
+            this.btn2.UseVisualStyleBackColor = false;
             this.btn2.Click += new System.EventHandler(this.btnNumber_Click);
             // 
             // btn1
             // 
+            this.btn1.BackColor = System.Drawing.Color.White;
             this.btn1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn1.Font = new System.Drawing.Font("맑은 고딕", 12.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
             this.btn1.Location = new System.Drawing.Point(10, 329);
@@ -126,11 +132,12 @@ namespace MyCalculator
             this.btn1.Size = new System.Drawing.Size(70, 50);
             this.btn1.TabIndex = 3;
             this.btn1.Text = "1";
-            this.btn1.UseVisualStyleBackColor = true;
+            this.btn1.UseVisualStyleBackColor = false;
             this.btn1.Click += new System.EventHandler(this.btnNumber_Click);
             // 
             // btn6
             // 
+            this.btn6.BackColor = System.Drawing.Color.White;
             this.btn6.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn6.Font = new System.Drawing.Font("맑은 고딕", 12.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
             this.btn6.Location = new System.Drawing.Point(162, 273);
@@ -138,11 +145,12 @@ namespace MyCalculator
             this.btn6.Size = new System.Drawing.Size(70, 50);
             this.btn6.TabIndex = 8;
             this.btn6.Text = "6";
-            this.btn6.UseVisualStyleBackColor = true;
+            this.btn6.UseVisualStyleBackColor = false;
             this.btn6.Click += new System.EventHandler(this.btnNumber_Click);
             // 
             // btn5
             // 
+            this.btn5.BackColor = System.Drawing.Color.White;
             this.btn5.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn5.Font = new System.Drawing.Font("맑은 고딕", 12.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
             this.btn5.Location = new System.Drawing.Point(86, 273);
@@ -150,11 +158,12 @@ namespace MyCalculator
             this.btn5.Size = new System.Drawing.Size(70, 50);
             this.btn5.TabIndex = 7;
             this.btn5.Text = "5";
-            this.btn5.UseVisualStyleBackColor = true;
+            this.btn5.UseVisualStyleBackColor = false;
             this.btn5.Click += new System.EventHandler(this.btnNumber_Click);
             // 
             // btn4
             // 
+            this.btn4.BackColor = System.Drawing.Color.White;
             this.btn4.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn4.Font = new System.Drawing.Font("맑은 고딕", 12.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
             this.btn4.Location = new System.Drawing.Point(10, 273);
@@ -162,11 +171,12 @@ namespace MyCalculator
             this.btn4.Size = new System.Drawing.Size(70, 50);
             this.btn4.TabIndex = 6;
             this.btn4.Text = "4";
-            this.btn4.UseVisualStyleBackColor = true;
+            this.btn4.UseVisualStyleBackColor = false;
             this.btn4.Click += new System.EventHandler(this.btnNumber_Click);
             // 
             // btn9
             // 
+            this.btn9.BackColor = System.Drawing.Color.White;
             this.btn9.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn9.Font = new System.Drawing.Font("맑은 고딕", 12.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
             this.btn9.Location = new System.Drawing.Point(162, 217);
@@ -174,11 +184,12 @@ namespace MyCalculator
             this.btn9.Size = new System.Drawing.Size(70, 50);
             this.btn9.TabIndex = 11;
             this.btn9.Text = "9";
-            this.btn9.UseVisualStyleBackColor = true;
+            this.btn9.UseVisualStyleBackColor = false;
             this.btn9.Click += new System.EventHandler(this.btnNumber_Click);
             // 
             // btn8
             // 
+            this.btn8.BackColor = System.Drawing.Color.White;
             this.btn8.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn8.Font = new System.Drawing.Font("맑은 고딕", 12.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
             this.btn8.Location = new System.Drawing.Point(86, 217);
@@ -186,11 +197,12 @@ namespace MyCalculator
             this.btn8.Size = new System.Drawing.Size(70, 50);
             this.btn8.TabIndex = 10;
             this.btn8.Text = "8";
-            this.btn8.UseVisualStyleBackColor = true;
+            this.btn8.UseVisualStyleBackColor = false;
             this.btn8.Click += new System.EventHandler(this.btnNumber_Click);
             // 
             // btn7
             // 
+            this.btn7.BackColor = System.Drawing.Color.White;
             this.btn7.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn7.Font = new System.Drawing.Font("맑은 고딕", 12.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
             this.btn7.Location = new System.Drawing.Point(10, 217);
@@ -198,11 +210,12 @@ namespace MyCalculator
             this.btn7.Size = new System.Drawing.Size(70, 50);
             this.btn7.TabIndex = 9;
             this.btn7.Text = "7";
-            this.btn7.UseVisualStyleBackColor = true;
+            this.btn7.UseVisualStyleBackColor = false;
             this.btn7.Click += new System.EventHandler(this.btnNumber_Click);
             // 
             // equalBtn
             // 
+            this.equalBtn.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.equalBtn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.equalBtn.Font = new System.Drawing.Font("맑은 고딕", 12.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
             this.equalBtn.Location = new System.Drawing.Point(238, 385);
@@ -210,7 +223,7 @@ namespace MyCalculator
             this.equalBtn.Size = new System.Drawing.Size(70, 50);
             this.equalBtn.TabIndex = 12;
             this.equalBtn.Text = "＝";
-            this.equalBtn.UseVisualStyleBackColor = true;
+            this.equalBtn.UseVisualStyleBackColor = false;
             this.equalBtn.Click += new System.EventHandler(this.btnEqual_Click);
             // 
             // plusBtn
@@ -399,6 +412,7 @@ namespace MyCalculator
             this.Controls.Add(this.dotBtn);
             this.Controls.Add(this.btn0);
             this.Controls.Add(this.changeBtn);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);
