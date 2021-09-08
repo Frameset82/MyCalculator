@@ -175,6 +175,7 @@ namespace MyCalculator
             if (errFlag == true) return;
             runCalculation(); // 계산 실행 호출
             savedOpCount = 0;
+            opFlag = true;
         }
 
         // 계산 처리 메서드

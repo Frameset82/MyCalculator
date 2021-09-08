@@ -1,0 +1,9 @@
+E:\포트폴리오\Wemade\MyCalculator\MyCalculator\bin\Release\MyCalculator.exe.config
+E:\포트폴리오\Wemade\MyCalculator\MyCalculator\bin\Release\MyCalculator.exe
+E:\포트폴리오\Wemade\MyCalculator\MyCalculator\bin\Release\MyCalculator.pdb
+E:\포트폴리오\Wemade\MyCalculator\MyCalculator\obj\Release\MyCalculator.Form1.resources
+E:\포트폴리오\Wemade\MyCalculator\MyCalculator\obj\Release\MyCalculator.Properties.Resources.resources
+E:\포트폴리오\Wemade\MyCalculator\MyCalculator\obj\Release\MyCalculator.csproj.GenerateResource.cache
+E:\포트폴리오\Wemade\MyCalculator\MyCalculator\obj\Release\MyCalculator.csproj.CoreCompileInputs.cache
+E:\포트폴리오\Wemade\MyCalculator\MyCalculator\obj\Release\MyCalculator.exe
+E:\포트폴리오\Wemade\MyCalculator\MyCalculator\obj\Release\MyCalculator.pdb

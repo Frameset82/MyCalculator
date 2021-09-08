@@ -1,10 +1,9 @@
 E:\포트폴리오\Wemade\MyCalculator\MyCalculator\bin\Debug\MyCalculator.exe.config
 E:\포트폴리오\Wemade\MyCalculator\MyCalculator\bin\Debug\MyCalculator.exe
 E:\포트폴리오\Wemade\MyCalculator\MyCalculator\bin\Debug\MyCalculator.pdb
-E:\포트폴리오\Wemade\MyCalculator\MyCalculator\obj\Debug\MyCalculator.csproj.AssemblyReference.cache
+E:\포트폴리오\Wemade\MyCalculator\MyCalculator\obj\Debug\MyCalculator.Form1.resources
 E:\포트폴리오\Wemade\MyCalculator\MyCalculator\obj\Debug\MyCalculator.Properties.Resources.resources
 E:\포트폴리오\Wemade\MyCalculator\MyCalculator\obj\Debug\MyCalculator.csproj.GenerateResource.cache
 E:\포트폴리오\Wemade\MyCalculator\MyCalculator\obj\Debug\MyCalculator.csproj.CoreCompileInputs.cache
 E:\포트폴리오\Wemade\MyCalculator\MyCalculator\obj\Debug\MyCalculator.exe
 E:\포트폴리오\Wemade\MyCalculator\MyCalculator\obj\Debug\MyCalculator.pdb
-E:\포트폴리오\Wemade\MyCalculator\MyCalculator\obj\Debug\MyCalculator.Form1.resources
